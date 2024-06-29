@@ -12,3 +12,12 @@ Images automatically extracted from the document were described using a VLM agen
 ![Adsz-2024-06-29-0711](https://github.com/oztrkoguz/VisQueryPDF/assets/101019436/2a0dd56e-8839-446c-b42b-3758c577cf86)
 
 Images and texts are automatically extracted from the document. Text data undergoes processing using a summarization agent to obtain a concise summary. Subsequently, embeddings of images and texts are extracted using the CLIP model, and their similarities are compared.
+
+### The first method achieved a similarity rate of 60%, whereas the other method showed similarities around 33%.
+
+## Usage
+```
+git clone https://github.com/oztrkoguz/VisQueryPDF.git
+cd VisQueryPDF
+python main.py
+```
