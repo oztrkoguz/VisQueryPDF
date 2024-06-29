@@ -21,3 +21,16 @@ git clone https://github.com/oztrkoguz/VisQueryPDF.git
 cd VisQueryPDF
 python main.py
 ```
+## Requirements
+```
+Python > 3.10
+langchain==0.2.6
+langchain-chroma==0.1.1
+langchain-community==0.0.38
+langchain-core==0.1.52
+langchain-openai==0.0.5
+langchain-text-splitters==0.2.1
+langsmith==0.1.82
+ollama==0.2.1
+
+```
