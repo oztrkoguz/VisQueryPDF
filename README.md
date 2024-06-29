@@ -1,4 +1,5 @@
 # VisQueryPDF
+### The aim of the project is to verify the alignment between images and texts in documents.
 ### 2 different methods were discussed.
 ## 1 Method 
 
